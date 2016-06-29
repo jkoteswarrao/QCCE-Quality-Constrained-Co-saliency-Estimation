@@ -1,0 +1,1 @@
+# QCCE-Quality-Constrained-Co-saliency-Estimation
